@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AutoSaaS</string>
+    <string name="title_activity_main">AutoSaaS</string>
+    <string name="package_name">com.autosaas.app</string>
+    <string name="custom_url_scheme">com.autosaas.app</string>
+</resources>
