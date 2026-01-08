@@ -77,7 +77,3 @@ To make the mobile app work without your computer running:
 1.  **Deploy the Web App**: Push this code to GitHub and deploy it on **Vercel** or **Netlify**.
 2.  **Update Mobile Config**: Change the `uri` in `mobile/App.tsx` to your new live URL.
 3.  **Rebuild**: Run the build command again.
-
-## 📄 License
-
-This project is open source and available for personal and commercial use.
