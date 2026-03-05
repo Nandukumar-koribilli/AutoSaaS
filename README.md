@@ -69,5 +69,3 @@ The `mobile/` folder contains an Expo project that wraps your web app.
     # Build for Android
     npx eas-cli build -p android --profile preview
     ```
-
-## 🌍 Deployment Guide
