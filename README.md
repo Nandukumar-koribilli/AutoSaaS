@@ -75,4 +75,4 @@ The `mobile/` folder contains an Expo project that wraps your web app.
 To make the mobile app work without your computer running:
 
 1.  **Deploy the Web App**: Push this code to GitHub and deploy it on **Vercel** or **Netlify**.
-2.  **Update Mobile Config**: Change the `uri` 
+2.  **Update Mobile 
