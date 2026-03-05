@@ -73,5 +73,3 @@ The `mobile/` folder contains an Expo project that wraps your web app.
 ## 🌍 Deployment Guide
 
 To make the mobile app work without your computer running:
-
-1.  **Deploy the Web App**: Push this
