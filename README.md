@@ -67,5 +67,3 @@ The `mobile/` folder contains an Expo project that wraps your web app.
     npm install -g eas-cli
 
     # Build for Android
-    npx eas-cli build -p android --profile preview
-    ```
